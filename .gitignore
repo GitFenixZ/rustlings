@@ -5,6 +5,7 @@ Cargo.lock
 
 # State file
 .rustlings-state.txt
+rust-analyzer.toml
 
 # oranda
 public/
